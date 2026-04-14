@@ -81,6 +81,7 @@ NexusAI/
 **Tapan Jaydeo Wankhade**
 - GitHub: [@Tapanwankhade](https://github.com/Tapanwankhade)
 - Project Repository: [NexusAI](https://github.com/Tapanwankhade/NexusAI)
+- email: tapanjw@gmail.com
 
 ---
 *Feel free to star ⭐ this repository if you found it helpful and interesting!*
